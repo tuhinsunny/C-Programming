@@ -13,7 +13,7 @@ int main() {
     return 0;
 }
 void namaste() {
-    printf("Namaste\n");
+    printf("I have changed it\n");
 }
 void bonjour() {
     printf("Bonjour\n");
